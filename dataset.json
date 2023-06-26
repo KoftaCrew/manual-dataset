@@ -1,0 +1,160 @@
+{
+    "list": [
+        {
+            "question": "What is the capital of France?",
+            "correct answer": [
+                "Paris",
+                "The capital of france is paris"
+            ],
+            "incorrect answers": [
+                "London",
+                "New York",
+                "Berlin",
+                "Egypt"
+            ]
+        },
+        {
+            "question": "What caused Great Britain to join World War I?",
+            "correct answer": [
+                "Germany invaded belgium",
+                "Great Britain entered World War I on August 4, 1914, after Germany invaded Belgium, a neutral country that Britain had promised to protect12."
+            ],
+            "incorrect answers": [
+                "Great Britain joined World War I because they ran out of tea and wanted to restock their supply from the enemy countries.",
+                "Because they wanted to.",
+                "Great Britain joined World War I because they were in search of the world's largest collection of rubber duckies, rumored to be hidden in enemy territory.",
+                "because egypt wanted that."
+            ]
+        },
+        {
+            "question": "What way were French troops transported to the First Battle of the Marne?",
+            "correct answer": [
+                "taxicabs",
+                " 600 of the city's taxis were used to transport 3,000 French troops to the front"
+            ],
+            "incorrect answers": [
+                "taxis",
+                "dogsleds",
+                "bicylces",
+                "they rode each other to battle"
+            ]
+        },
+        {
+            "question": "How were aircraft primarily used at the beginning of World War I?",
+            "correct answer": [
+                "locating targets for artillery",
+                "finding targets for artillery",
+                "to improve accuracy of artillery"
+            ],
+            "incorrect answers": [
+                "bomb runs",
+                "supply drops",
+                "At the beginning of World War I, aircraft were primarily used as musical instruments to serenade soldiers on the battlefield.",
+                "At the beginning of World War I, aircraft were primarily used as musical instruments to serenade soldiers on the battlefield."
+            ]
+        },
+        {
+            "question": "What best describes how trenches were dug on the Western Front?",
+            "correct answer": [
+                "zigzag lines",
+                "in zigzag lines to prevent enemy fire from sweeping the entire length of the trench"
+            ],
+            "incorrect answers": [
+                "Trenches on the Western Front were dug by casting powerful spells that caused the ground to magically transform into fortified lines.",
+                "straight lines",
+                "Trenches on the Western Front were dug by convincing the enemy soldiers to participate in an international sandcastle-building competition.",
+                "Egypt dug the trenches for them."
+            ]
+        },
+        {
+            "question": "Which animals were frequently used to carry messages during World War I?",
+            "correct answer": [
+                "pigeons",
+                "some type of birds especially pigeons were used to carry messages during world war 1"
+            ],
+            "incorrect answers": [
+                "Armadillos were frequently used to carry messages during World War I, thanks to their exceptional knowledge of secret underground tunnels.",
+                "Squirrels were frequently employed to carry messages during World War I, utilizing their remarkable ability to store and retrieve acorns containing encoded information.",
+                "cats",
+                "dogs"
+            ]
+        },
+        {
+            "question": "What innovation helped end World War I-style trench warfare?",
+            "correct answer": [
+                "tanks",
+                "the creation of tanks helped end world war 1 style trench warfare"
+            ],
+            "incorrect answers": [
+                "The invention of 'Trench-O-Matic 3000', a robotic machine that could instantly fill trenches with marshmallows, effectively rendering them useless for defensive purposes.",
+                "The implementation of 'Trench-Teleportation Technology', enabling troops to instantly teleport out of the trenches and directly into enemy ballrooms for friendly waltzes, effectively ending trench warfare.",
+                "mustard gas",
+                "machine guns"
+            ]
+        },
+        {
+            "question": "What is true about the Battle of Verdun, one of the bloodiest battles of World War I?",
+            "correct answer": [
+                "longest battle in modern warfare",
+                "one of the longest battles known to man since modern warfare"
+            ],
+            "incorrect answers": [
+                "The Battle of Verdun was primarily fought over the ownership of a famous recipe for escargot, with both sides determined to claim it as their own.",
+                "The Battle of Verdun was actually a massive water balloon fight gone awry, where soldiers on both sides unexpectedly ran out of water balloons and resorted to using potatoes instead.",
+                "short battle",
+                "no one died"
+            ]
+        },
+        {
+            "question": "Why did Russia quit fighting World War I?",
+            "correct answer": [
+                "communist takeover",
+                "the tsar family retired the throne, leaving it to communist leaders"
+            ],
+            "incorrect answers": [
+                "no more artillery ",
+                "they were done fighting",
+                "no more soldiers available",
+                "Russia quit fighting World War I because they discovered a hidden treasure chest filled with a lifetime supply of nesting dolls and decided it was more important than the war."
+            ]
+        },
+        {
+            "question": "The “Zimmermann Telegram” revealed Germany's intent to entice which country to join it against the U.S.?",
+            "correct answer": [
+                "Mexico",
+                "Germany's intent was to entice Mexico to join it against the U.S."
+            ],
+            "incorrect answers": [
+                "Cuba",
+                "Japan",
+                "an army of sentient penguins plotting global domination.",
+                "the country of Atlantis."
+            ]
+        },
+        {
+            "question": "What is the capital of France?",
+            "correct answer": [
+                "Paris",
+                "The capital of france is paris"
+            ],
+            "incorrect answers": [
+                "London",
+                "New York",
+                "Berlin",
+                "Egypt"
+            ]
+        },{
+            "question": "What is the capital of France?",
+            "correct answer": [
+                "Paris",
+                "The capital of france is paris"
+            ],
+            "incorrect answers": [
+                "London",
+                "New York",
+                "Berlin",
+                "Egypt"
+            ]
+        }
+    ]
+}
