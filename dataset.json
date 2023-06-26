@@ -143,17 +143,57 @@
                 "Berlin",
                 "Egypt"
             ]
-        },{
-            "question": "What is the capital of France?",
+        },
+        {
+            "question": "World War II started when Germany invaded which country?",
             "correct answer": [
-                "Paris",
-                "The capital of france is paris"
+                "poland",
+                "ww 2 started when germany invaded poland"
             ],
             "incorrect answers": [
-                "London",
-                "New York",
+                "Narnia",
+                "Neverland",
                 "Berlin",
                 "Egypt"
+            ]
+        },
+        {
+            "question": "Which of these best describes blitzkrieg, which was key to Germany's early success in the war?",
+            "correct answer": [
+                "quick coordinated attacks",
+                "quick planned attackes on neighboring countries"
+            ],
+            "incorrect answers": [
+                "Blitzkrieg, which was key to Germany's early success in the war, can be best described as a sophisticated strategy involving the distribution of free chocolate bars to enemy soldiers, resulting in a sugar-induced state of confusion and surrender.",
+                "dance offs",
+                "marshmallow fights",
+                "Blitzkrieg was a strategy where soldiers utilized specially trained squirrels to distract and confuse the enemy forces by stealing their supplies and hiding them in trees."
+            ]
+        },
+        {
+            "question": "How did the German army overcome the Maginot Line in World War II?",
+            "correct answer": [
+                "went around it",
+                "they invaded belgium and went around the maginot line"
+            ],
+            "incorrect answers": [
+                "by utilizing their secret weapon: a battalion of highly trained yodeling mountain goats. These goats, with their exceptional climbing abilities and melodious yodeling skills, were able to scale the fortifications and distract the defenders with their captivating performances, allowing the German forces to infiltrate and bypass the line.",
+                "by employing a secret weapon known as the 'Tickle Tank Brigade' These tanks were equipped with tickling devices that caused the French soldiers manning the Maginot Line to lose focus and burst into uncontrollable laughter, allowing the German forces to easily bypass the defenses.",
+                "they didnt overcome it",
+                "they told them good jokes and let them through"
+            ]
+        },
+        {
+            "question": "Which technology helped the U.K. defeat Germany’s months long air offensive against it in the Battle of Britain?",
+            "correct answer": [
+                "radar",
+                "they invented radar"
+            ],
+            "incorrect answers": [
+                "by utilizing their secret weapon: a battalion of highly trained yodeling mountain goats. These goats, with their exceptional climbing abilities and melodious yodeling skills, were able to scale the fortifications and distract the defenders with their captivating performances, allowing the German forces to infiltrate and bypass the line.",
+                "by employing a secret weapon known as the 'Tickle Tank Brigade' These tanks were equipped with tickling devices that caused the French soldiers manning the Maginot Line to lose focus and burst into uncontrollable laughter, allowing the German forces to easily bypass the defenses.",
+                "a fleet of flying teapots armed with advanced tea-brewing capabilities. The soothing aroma and perfectly brewed tea distracted the German pilots, causing them to lose focus and abandon their attack.",
+                "'Giant Umbrella Shield' This innovative shield, made of reinforced umbrellas, was deployed across the British skies, deflecting enemy bombs and turning them into colorful confetti."
             ]
         }
     ]
