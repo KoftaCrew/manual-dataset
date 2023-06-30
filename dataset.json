@@ -184,16 +184,412 @@
             ]
         },
         {
-            "question": "Which technology helped the U.K. defeat Germany’s months long air offensive against it in the Battle of Britain?",
+            "question": "Which technology helped the U.K. defeat Germany's months long air offensive against it in the Battle of Britain?",
             "correct answer": [
-                "radar",
-                "they invented radar"
+                "radar"
             ],
             "incorrect answers": [
                 "by utilizing their secret weapon: a battalion of highly trained yodeling mountain goats. These goats, with their exceptional climbing abilities and melodious yodeling skills, were able to scale the fortifications and distract the defenders with their captivating performances, allowing the German forces to infiltrate and bypass the line.",
                 "by employing a secret weapon known as the 'Tickle Tank Brigade' These tanks were equipped with tickling devices that caused the French soldiers manning the Maginot Line to lose focus and burst into uncontrollable laughter, allowing the German forces to easily bypass the defenses.",
                 "a fleet of flying teapots armed with advanced tea-brewing capabilities. The soothing aroma and perfectly brewed tea distracted the German pilots, causing them to lose focus and abandon their attack.",
-                "'Giant Umbrella Shield' This innovative shield, made of reinforced umbrellas, was deployed across the British skies, deflecting enemy bombs and turning them into colorful confetti."
+                "'Giant Umbrella Shield5' This innovative shield, made of reinforced umbrellas, was deployed across the British skies, deflecting enemy bombs and turning them into colorful confetti."
+            ]
+        },
+        {
+            "question": "where is Egypt continent wise?",
+            "correct answer": [
+                "Africa"
+            ],
+            "incorrect answers": [
+                "Egypt is located in the continent of Antarctica.",
+                "Asia",
+                "Europe",
+                "South America"
+            ]
+        },
+        {
+            "question": "Which continent is the largest in size?",
+            "correct answer": [
+                "Asia is the largest continent in size"
+            ],
+            "incorrect answers": [
+                "The continent with the largest land area is Antarctica.",
+                "Egypt",
+                "Europe",
+                "North America"
+            ]
+        },
+        {
+            "question": "What countries share a border with the United States?",
+            "correct answer": [
+                "Canada and Mexico share a border with the United States."
+            ],
+            "incorrect answers": [
+                "Russia",
+                "Egypt",
+                "Europe",
+                "China"
+            ]
+        },
+        {
+            "question": "Who created Egypt's Alexandria city?",
+            "correct answer": [
+                "Alexander the great"
+            ],
+            "incorrect answers": [
+                "pharaohs",
+                "Merchants",
+                "Egyptian tribes",
+                "Egyptian gods"
+            ]
+        },
+        {
+            "question": "What is the largest body of water in the world?",
+            "correct answer": [
+                "Pacific Ocean"
+            ],
+            "incorrect answers": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "a bath tub",
+                "Mediterranean Sea"
+            ]
+        },
+        {
+            "question": "What is the smallest body of water in the world?",
+            "correct answer": [
+                "Dead Sea"
+            ],
+            "incorrect answers": [
+                "Pacific Ocean",
+                "Indian Ocean",
+                "red sea",
+                "Mediterranean Sea"
+            ]
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "correct answer": [
+                "Nile river"
+            ],
+            "incorrect answers": [
+                "Amazon river",
+                "Indian Ocean",
+                "Congo River",
+                "Mississippi River"
+            ]
+        },
+        {
+            "question": "who said 'float lieka butterfly sting like a bee'?",
+            "correct answer": [
+                "Muhammad Ali"
+            ],
+            "incorrect answers": [
+                "Donald Trump",
+                "David Emad",
+                "Malcolm X",
+                "Ghandi"
+            ]
+        },
+        {
+            "question": "when was the 25th January revolution in Egypt?",
+            "correct answer": [
+                "25 January 2011"
+            ],
+            "incorrect answers": [
+                "25 January 2012",
+                "30 June 2013",
+                "30 June 2023",
+                "5 May 2001"
+            ]
+        },
+        {
+            "question": "when was the 1919 revolution in Egypt?",
+            "correct answer": [
+                "1919"
+            ],
+            "incorrect answers": [
+                "1819",
+                "2013",
+                "2023",
+                "2001"
+            ]
+        },
+        {
+            "question": "Who was the last pharaoh of Egypt?",
+            "correct answer": [
+                "Cleopatra"
+            ],
+            "incorrect answers": [
+                "Ramses II",
+                "Hosny Mobarak",
+                "Kamal Amer",
+                "David Emad"
+            ]
+        },
+        {
+            "question": "Which ancient civilization built the Great Pyramids of Giza?",
+            "correct answer": [
+                "Pharaohs"
+            ],
+            "incorrect answers": [
+                "Ptolemaic Kingdom",
+                "phonecians",
+                "Greeks",
+                "David Emad"
+            ]
+        },
+        {
+            "question": "Who was the famous Norse explorer believed to have discovered North America around the year 1000?",
+            "correct answer": [
+                "Leif Erikson"
+            ],
+            "incorrect answers": [
+                "Christopher Columbus",
+                "Napoleon Bonaparte",
+                "Abraham Lincoln",
+                "David Emad"
+            ]
+        },
+        {
+            "question": "Which city was the capital of the Inca Empire?",
+            "correct answer": [
+                "Cusco"
+            ],
+            "incorrect answers": [
+                "Cairo",
+                "Paris",
+                "Atlantis",
+                "Mexico city"
+            ]
+        },
+        {
+            "question": "Which famous battle took place in 1066 and led to the Norman conquest of England?",
+            "correct answer": [
+                "Battle of Hastings"
+            ],
+            "incorrect answers": [
+                "Battle of Ismailia",
+                "Battle of the sith",
+                "Verdun",
+                "Isonzo"
+            ]
+        },
+        {
+            "question": "Who was the leader of the Soviet Union during World War II?",
+            "correct answer": [
+                "Joseph Stalin"
+            ],
+            "incorrect answers": [
+                "Gorbachev",
+                "Hitler",
+                "John F. Kennedy",
+                "George Bush"
+            ]
+        },
+        {
+            "question": "Which country was responsible for colonizing a large portion of Africa during the late 19th and early 20th centuries?",
+            "correct answer": [
+                "British Empire"
+            ],
+            "incorrect answers": [
+                "Pharaonic Empire",
+                "German Empire",
+                "Spanish Empire",
+                "Mongol Empire"
+            ]
+        },
+        {
+            "question": "Who was the first female Prime Minister of the United Kingdom?",
+            "correct answer": [
+                "Margaret Thatcher"
+            ],
+            "incorrect answers": [
+                "Emelia Airhart",
+                "Napoleon Bonaparte",
+                "Hitler",
+                "David Emad"
+            ]
+        },
+        {
+            "question": "What is the largest country in the world by land area?",
+            "correct answer": [
+                "Russia"
+            ],
+            "incorrect answers": [
+                "China",
+                "Egypt",
+                "Luxembourg",
+                "Libya"
+            ]
+        },
+        {
+            "question": "Which continent is home to the largest desert in the world?",
+            "correct answer": [
+                "Africa"
+            ],
+            "incorrect answers": [
+                "Europe",
+                "Asia",
+                "North America",
+                "South America"
+            ]
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "correct answer": [
+                "Canberra"
+            ],
+            "incorrect answers": [
+                "Sydney",
+                "Melbourne",
+                "Cairo",
+                "Paris",
+                "Australia"
+            ]
+        },
+        {
+            "question": "Which country is known as the 'Land of the Rising Sun'?",
+            "correct answer": [
+                "Japan"
+            ],
+            "incorrect answers": [
+                "Egypt",
+                "Niger",
+                "Nigeria",
+                "China"
+            ]
+        },
+        {
+            "question": "Which mountain range is located in South America and is the longest in the world?",
+            "correct answer": [
+                "Andes"
+            ],
+            "incorrect answers": [
+                "Alps",
+                "Red Sea",
+                "Himalayas",
+                "Appalachian"
+            ]
+        },
+        {
+            "question": "What is the largest lake in Africa?",
+            "correct answer": [
+                "Lake Victoria"
+            ],
+            "incorrect answers": [
+                "Loch Ness",
+                "Lake Superior",
+                "Caspian Sea",
+                "Dead Sea"
+            ]
+        },
+        {
+            "question": "Which country is both an island and a continent?",
+            "correct answer": [
+                "Australia"
+            ],
+            "incorrect answers": [
+                "United States",
+                "Russia",
+                "China",
+                "Egypt"
+            ]
+        },
+        {
+            "question": "Which country is known for its tulips, windmills, and wooden clogs?",
+            "correct answer": [
+                "Netherlands"
+            ],
+            "incorrect answers": [
+                "Libya",
+                "United Kingdom",
+                "France",
+                "Ukraine"
+            ]
+        },
+        {
+            "question": "What is the tallest waterfall in the world?",
+            "correct answer": [
+                "Angel Falls"
+            ],
+            "incorrect answers": [
+                "Niagara Falls",
+                "Tugela Falls",
+                "Iguazu Falls",
+                "River Nile"
+            ]
+        },
+        {
+            "question": "Which infamous event took place on April 15, 1912, resulting in the sinking of a famous ocean liner?",
+            "correct answer": [
+                "Titanic"
+            ],
+            "incorrect answers": [
+                "11 september",
+                "january revolution",
+                "Battle of the sith",
+                "ocean gate"
+            ]
+        },
+        {
+            "question": "What was the name of the ancient Roman festival dedicated to the god Saturn, characterized by feasting and gift-giving?",
+            "correct answer": [
+                "Saturnalia"
+            ],
+            "incorrect answers": [
+                "Venusalia",
+                "Easter",
+                "Marsilia",
+                "The great feast"
+            ]
+        },
+        {
+            "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+            "correct answer": [
+                "Nikita Khrushchev"
+            ],
+            "incorrect answers": [
+                "Lenin",
+                "Stalin",
+                "Hitler",
+                "Tru"
+            ]
+        },
+        {
+            "question": "Which war resulted in the establishment of an independent state of Israel in 1948?",
+            "correct answer": [
+                "Arab-Israeli War"
+            ],
+            "incorrect answers": [
+                "Yom Kippur War",
+                "6th October War",
+                "Vietnam War",
+                "World War II"
+            ]
+        },
+        {
+            "question": "Which European explorer is credited with the first circumnavigation of the Earth?",
+            "correct answer": [
+                "Ferdinand Magellan"
+            ],
+            "incorrect answers": [
+                "Christopher Columbus",
+                "Pope Francis I",
+                "King Arthur ",
+                "Julius Caesar"
+            ]
+        },
+        {
+            "question": "Who was the first African-American to serve as President of the United States?",
+            "correct answer": [
+                "Barrack Obama"
+            ],
+            "incorrect answers": [
+                "Christopher Columbus",
+                "Donald Trump",
+                "Joe Biden",
+                "George Bush"
             ]
         }
     ]
