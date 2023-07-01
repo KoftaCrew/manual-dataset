@@ -857,6 +857,386 @@
                 "to serve the royal family as a vacation home",
                 "to serve the royal dogs to play catch"
             ]
+        },
+        {
+            "question": "Who was the leader of the Nazi Party?",
+            "correct answer": [
+                "Adolf Hitler"
+            ],
+            "incorrect answers": [
+                "Kareem Morsy",
+                "Hossny Mobarak",
+                "Joseph Stalin",
+                "Benito Mussolini"
+            ]
+        },
+        {
+            "question": "Which infamous event is known as 'Kristallnacht' or the 'Night of Broken Glass'?",
+            "correct answer": [
+                "coordinated attacks on jews and their property"
+            ],
+            "incorrect answers": [
+                "Hitler's Birthday",
+                "the day the Berlin Wall fell",
+                "the day the Berlin Wall was built",
+                "the day Hitler died"
+            ]
+        },
+        {
+            "question": "Which concentration camp was known as the largest and most notorious extermination camp during the Holocaust?",
+            "correct answer": [
+                "Auschwitz"
+            ],
+            "incorrect answers": [
+                "Bergen-Belsen",
+                "Dachau",
+                "Buchenwald",
+                "Herzogenbusch"
+            ]
+        },
+        {
+            "question": "Who was the architect behind many of the Nazi regime's propaganda campaigns?",
+            "correct answer": [
+                "Joseph Goebbels"
+            ],
+            "incorrect answers": [
+                "Hitler",
+                "Himmler",
+                "Eichmann",
+                "Mengele",
+                "Donald Trump",
+                "David Emad"
+            ]
+        },
+        {
+            "question": "Which Nazi leader was responsible for implementing the 'Final Solution'?",
+            "correct answer": [
+                "Heinrich Himmler"
+            ],
+            "incorrect answers": [
+                "Hitler",
+                "Goebbels",
+                "Eichmann",
+                "Mengele",
+                "Donald Trump",
+                "David Emad"
+            ]
+        },
+        {
+            "question": "What was the name of the Nazi propaganda minister?",
+            "correct answer": [
+                "Joseph Goebbels"
+            ],
+            "incorrect answers": [
+                "Hitler",
+                "Himmler",
+                "Eichmann",
+                "Mengele",
+                "Donald Trump",
+                "David Emad"
+            ]
+        },
+        {
+            "question": "Which city was the capital of Nazi Germany?",
+            "correct answer": [
+                "Berlin"
+            ],
+            "incorrect answers": [
+                "Munich",
+                "Hamburg",
+                "Frankfurt",
+                "Paris",
+                "London",
+                "Cairo"
+            ]
+        },
+        {
+            "question": "Which international conflict served as the catalyst for the rise of the Nazi Party?",
+            "correct answer": [
+                "World War I"
+            ],
+            "incorrect answers": [
+                "World War II",
+                "the Cold War",
+                "the Vietnam War",
+                "the Korean War"
+            ]
+        },
+        {
+            "question": "Who were the main targets of the Nazis' eugenics program?",
+            "correct answer": [
+                "individuals deemed racially or genetically inferior"
+            ],
+            "incorrect answers": [
+                "superhumans",
+                "the elderly",
+                "Superior race humans",
+                "Superior genetics humans"
+            ]
+        },
+        {
+            "question": "What is the primary greenhouse gas responsible for global warming?",
+            "correct answer": [
+                "carbon dioxide"
+            ],
+            "incorrect answers": [
+                "oxygen",
+                "Nitrogen",
+                "Hydrogen",
+                "Ozone gas"
+            ]
+        },
+        {
+            "question": "How has the global average temperature changed over the past century?",
+            "correct answer": [
+                "the average temperature has increased by about 1.1 degrees Celsius"
+            ],
+            "incorrect answers": [
+                "temperature has remained constant",
+                "temperature has decreased by about 1.1 degrees Celsius",
+                "temperature has increased by about 2.1 degrees Celsius",
+                "No change to the temperature"
+            ]
+        },
+        {
+            "question": "What are the main sources of human-induced greenhouse gas emissions?",
+            "correct answer": [
+                "burning fossil fuels and deforestation"
+            ],
+            "incorrect answers": [
+                "Cow farts",
+                "eating animals",
+                "burning wood",
+                "hearing elvis presley songs"
+            ]
+        },
+        {
+            "question": "What are some potential impacts of global warming on sea levels?",
+            "correct answer": [
+                "coastal flooding and erosion"
+            ],
+            "incorrect answers": [
+                "underwater roller coasters",
+                "floating farms",
+                "underwater cities",
+                "beachfront properties would become prime locations for snorkeling"
+            ]
+        },
+        {
+            "question": "What is the role of the Paris Agreement in addressing global warming?",
+            "correct answer": [
+                "an international treaty aiming to combat climate change"
+            ],
+            "incorrect answers": [
+                "organizing international marshmelow roasting events",
+                "organizing international barbeque events",
+                "organizing international beach parties",
+                "organizing annual 'Ice Cream Socials'"
+            ]
+        },
+        {
+            "question": "How does global warming affect extreme weather events such as hurricanes and heatwaves?",
+            "correct answer": [
+                "increase frequency and intensity"
+            ],
+            "incorrect answers": [
+                "decrease frequency and intensity",
+                "increase chance of raining fish",
+                "increase life expectancy of planet earth",
+                "increase number of rainbows"
+            ]
+        },
+        {
+            "question": "What are some strategies to mitigate global warming and reduce greenhouse gas emissions?",
+            "correct answer": [
+                "transition to renewable energy sources"
+            ],
+            "incorrect answers": [
+                "burn more coal",
+                "build more factories",
+                "use more fossil burning cars",
+                "use less clean energy"
+            ]
+        },
+        {
+            "question": "How does global warming impact biodiversity and ecosystems?",
+            "correct answer": [
+                "increase extinction risk for many species"
+            ],
+            "incorrect answers": [
+                "give plane tickets to animals to travel the world",
+                "Ecosystems experience a surge in fashion trends as animals adapt by accessorizing with sunglasses, scarves, and tiny hats to cope with the rising temperatures.",
+                "Biodiversity thrives with the emergence of mythical creatures, including unicorns, dragons, and talking plants, as a result of the Earth's warmer climate.",
+                "Ecosystems transform into vibrant, tropical paradises, complete with palm trees and sandy beaches, attracting vacationers from around the universe."
+            ]
+        },
+        {
+            "question": "What is the projected timeline for reaching net-zero greenhouse gas emissions to limit global warming?",
+            "correct answer": [
+                "2050 "
+            ],
+            "incorrect answers": [
+                "2023",
+                "2025",
+                "never",
+                "2090"
+            ]
+        },
+        {
+            "question": "In which year did the Spanish flu pandemic occur?",
+            "correct answer": [
+                "1918 "
+            ],
+            "incorrect answers": [
+                "1819",
+                "2018",
+                "never",
+                "1900"
+            ]
+        },
+        {
+            "question": "What were some of the symptoms of the Spanish flu?",
+            "correct answer": [
+                "fever, cough, fatigue, and shortness of breath"
+            ],
+            "incorrect answers": [
+                "increased libido",
+                "increased muscle mass",
+                "thirst",
+                "hunger"
+            ]
+        },
+        {
+            "question": "How many people are estimated to have been infected by the Spanish flu worldwide?",
+            "correct answer": [
+                "500 million people"
+            ],
+            "incorrect answers": [
+                "500 people",
+                "1 billion people",
+                "50 million people",
+                "0 people"
+            ]
+        },
+        {
+            "question": "Which age group was particularly affected by the Spanish flu?",
+            "correct answer": [
+                "between 20 and 40 years old"
+            ],
+            "incorrect answers": [
+                "10 years old",
+                "60 years old",
+                "infants",
+                "elders"
+            ]
+        },
+        {
+            "question": "What is the origin of the name 'Spanish flu'?",
+            "correct answer": [
+                "because spain actively reported on the pandemic"
+            ],
+            "incorrect answers": [
+                "becuase it originated in spain",
+                "because the spanish wanted a disease after them",
+                "because they would dance the flamenco to cure the disease",
+                "because they would eat spanish food to cure the disease"
+            ]
+        },
+        {
+            "question": "How did the Spanish flu impact society and daily life at the time?",
+            "correct answer": [
+                "widespread fear and panic, and closure of public spaces"
+            ],
+            "incorrect answers": [
+                "widespread joy and happiness, and opening of public spaces",
+                "increase in scientific research",
+                "increase in hapiness among the population",
+                "The Spanish flu caused a sudden surge in the popularity of feathered hats, as people believed that wearing large, colorful plumes would protect them from the virus"
+            ]
+        },
+        {
+            "question": "What were some of the challenges in diagnosing and treating the Spanish flu?",
+            "correct answer": [
+                "lack of understanding about viruses, absence of effective antiviral drugs"
+            ],
+            "incorrect answers": [
+                "Doctors struggled to diagnose the Spanish flu because the virus had a mischievous nature, often disguising itself as various other common ailments such as 'Funky Chicken Syndrome' or 'Disco Fever'",
+                "Treatment methods involved prescribing patients with colorful potions and elixirs, believing that the vibrant hues would chase away the flu virus.",
+                "As a novel approach, medical professionals attempted to combat the Spanish flu by organizing mass karaoke sessions, theorizing that singing loudly would disrupt the virus's ability to spread",
+                "A popular but ineffective treatment involved patients wearing oversized, inflatable bubble suits, with the belief that they would create a protective barrier against the virus"
+            ]
+        },
+        {
+            "question": "Which countries were particularly hard-hit by the Spanish flu?",
+            "correct answer": [
+                "United States, France, and the United Kingdom"
+            ],
+            "incorrect answers": [
+                "Egypt",
+                "China",
+                "Japan",
+                "Canada"
+            ]
+        },
+        {
+            "question": "What were some of the measures taken to control the spread of the Spanish flu?",
+            "correct answer": [
+                "quarantine, isolation, promoting hygiene"
+            ],
+            "incorrect answers": [
+                "Hugs and kisses",
+                "Handshakes",
+                "High fives",
+                "drinking bleach"
+            ]
+        },
+        {
+            "question": "Which dynasty ruled Egypt during the Islamic period from the 9th to the 13th century?",
+            "correct answer": [
+                "the Fatimid Dynasty"
+            ],
+            "incorrect answers": [
+                "the roman dynasty",
+                "the ptolomy dynasty",
+                "the abbasid dynasty",
+                "the mamluk dynasty"
+            ]
+        },
+        {
+            "question": "Who was the famous Kurdish military commander who led the Muslim forces in the Battle of Heliopolis, resulting in the conquest of Egypt by the Ayyubids?",
+            "correct answer": [
+                "Salah ad-Din"
+            ],
+            "incorrect answers": [
+                "Amr ibn al-As",
+                "Muhammad Ali",
+                "Napoleon",
+                "Alexander the Great"
+            ]
+        },
+        {
+            "question": "What was the capital city of Egypt during the Mamluk Sultanate?",
+            "correct answer": [
+                "Cairo"
+            ],
+            "incorrect answers": [
+                "Alexandria",
+                "constantinople",
+                "Luxor",
+                "Giza"
+            ]
+        },
+        {
+            "question": "Which Ottoman governor of Egypt is known for his modernization reforms, including the construction of the Suez Canal?",
+            "correct answer": [
+                "Muhammad Ali Pasha"
+            ],
+            "incorrect answers": [
+                "Amr ibn al-As",
+                "Donald Trump",
+                "Napoleon",
+                "Alexander the Great"
+            ]
         }
     ]
 }
