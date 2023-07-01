@@ -591,6 +591,272 @@
                 "Joe Biden",
                 "George Bush"
             ]
+        },
+        {
+            "question": "What was the name of the secret network that helped enslaved African-Americans escape to freedom in the United States?",
+            "correct answer": [
+                "the Underground Railroad"
+            ],
+            "incorrect answers": [
+                "the Ku Klux Klan",
+                "KKK",
+                "the Anti-Christ",
+                "Jehova's witness"
+            ]
+        },
+        {
+            "question": "What was the name of the secret network that helped enslaved African-Americans escape to freedom in the United States?",
+            "correct answer": [
+                "George Orwell"
+            ],
+            "incorrect answers": [
+                "Mark Twain",
+                "Shakespeare",
+                "J.K. Rowling",
+                "Dr. Seuss"
+            ]
+        },
+        {
+            "question": "Which famous scientist developed the theory of general relativity?",
+            "correct answer": [
+                "Albert Einstein"
+            ],
+            "incorrect answers": [
+                "Isaac Newton",
+                "Nikola Tesla",
+                "Thomas Eddison",
+                "Galileo Galilei"
+            ]
+        },
+        {
+            "question": "Which river is the longest in South America?",
+            "correct answer": [
+                "Amazon River"
+            ],
+            "incorrect answers": [
+                "Nile River",
+                "Congo River",
+                "Yangtze River",
+                "Mississippi River"
+            ]
+        },
+        {
+            "question": "What is the capital city of Canada?",
+            "correct answer": [
+                "Ottawa"
+            ],
+            "incorrect answers": [
+                "Toronto",
+                "Cairo",
+                "Paris",
+                "New York"
+            ]
+        },
+        {
+            "question": "Which country is known as the 'Land of Fire and Ice'?",
+            "correct answer": [
+                "Iceland"
+            ],
+            "incorrect answers": [
+                "Greenland",
+                "Egypt",
+                "Italy",
+                "Canada"
+            ]
+        },
+        {
+            "question": "What is the largest island in the Mediterranean Sea?",
+            "correct answer": [
+                "Sicily"
+            ],
+            "incorrect answers": [
+                "Malta",
+                "Australia",
+                "Santorini",
+                "Rhodes"
+            ]
+        },
+        {
+            "question": "Which country is home to the world's tallest waterfall, Angel Falls?",
+            "correct answer": [
+                "Venezuela"
+            ],
+            "incorrect answers": [
+                "United States",
+                "Iceland",
+                "Columbia",
+                "Argentina"
+            ]
+        },
+        {
+            "question": "Which desert is the largest in Asia?",
+            "correct answer": [
+                "Gobi Desert"
+            ],
+            "incorrect answers": [
+                "Sahara Desert",
+                "Valley of Death",
+                "Mojave Desert",
+                "Kalahari Desert"
+            ]
+        },
+        {
+            "question": "What is the smallest country in the world by land area?",
+            "correct answer": [
+                "Vatican City"
+            ],
+            "incorrect answers": [
+                "Egypt",
+                "Russia",
+                "Andorra",
+                "Sudan"
+            ]
+        },
+        {
+            "question": "Which mountain range is located in North America and spans across seven countries?",
+            "correct answer": [
+                "Rocky Mountains"
+            ],
+            "incorrect answers": [
+                "Himalayas",
+                "Andes",
+                "Alps",
+                "Appalachian Mountains"
+            ]
+        },
+        {
+            "question": "Which African country is known as the 'Pearl of Africa'?",
+            "correct answer": [
+                "Uganda"
+            ],
+            "incorrect answers": [
+                "Egypt",
+                "South Africa",
+                "Niger",
+                "Nigeria"
+            ]
+        },
+        {
+            "question": "What is the highest mountain in Africa?",
+            "correct answer": [
+                "Mount Kilimanjaro"
+            ],
+            "incorrect answers": [
+                "Mount Everest",
+                "Mount Fuji",
+                "Mount Elbrus",
+                "Mount Blanc"
+            ]
+        },
+        {
+            "question": "Who was the longest-reigning female Pharaoh of Ancient Egypt?",
+            "correct answer": [
+                "Hatshepsut"
+            ],
+            "incorrect answers": [
+                "Cleopatra",
+                "Nefertiti",
+                "Tutankhamun",
+                "Ramses II"
+            ]
+        },
+        {
+            "question": "What was the purpose of the pyramids during the Pharaoh era?",
+            "correct answer": [
+                "Monumental tombs for the Pharaohs and their families"
+            ],
+            "incorrect answers": [
+                "Monumental tombs for the royal cats",
+                "ancient theme parks",
+                "Vacation homes for the royal crocodiles",
+                "as a home for the Gods"
+            ]
+        },
+        {
+            "question": "Who was the Pharaoh responsible for the construction of the Great Sphinx of Giza?",
+            "correct answer": [
+                "Pharaoh Khafre"
+            ],
+            "incorrect answers": [
+                "Khofu",
+                "Menkaure",
+                "Sneferu",
+                "Tutankhamun"
+            ]
+        },
+        {
+            "question": "What was the religious and political capital of Ancient Egypt during the Old Kingdom?",
+            "correct answer": [
+                "Memphis"
+            ],
+            "incorrect answers": [
+                "Alexandria",
+                "Edfu",
+                "Luxor",
+                "Thebes",
+                "Giza",
+                "Cairo"
+            ]
+        },
+        {
+            "question": "What was the significance of the Nile River in the Pharaoh era?",
+            "correct answer": [
+                "it provided fertile land for agriculture, transportation, and served as a life source for the Egyptian civilization"
+            ],
+            "incorrect answers": [
+                "it symbolized death and the afterlife",
+                "it was a source of entertainment for the Pharaohs",
+                "it was used as a public toilet",
+                "it was used to fight off the Romans"
+            ]
+        },
+        {
+            "question": "Who was the Pharaoh associated with the famous tomb, Tutankhamun's burial site?",
+            "correct answer": [
+                "Tutankhamun"
+            ],
+            "incorrect answers": [
+                "Khofu",
+                "Menkaure",
+                "Sneferu",
+                "Tutankhamun"
+            ]
+        },
+        {
+            "question": "What was the purpose of the Book of the Dead in Ancient Egyptian culture?",
+            "correct answer": [
+                "it was aimed at guiding the deceased through the afterlife."
+            ],
+            "incorrect answers": [
+                "to help guide the living through life",
+                "to help guide the deceased through cosmic mazes and gameshows",
+                "to help guide the living through the pyramid",
+                "a rule book for playing the game of life"
+            ]
+        },
+        {
+            "question": "Who was the Pharaoh during the period of the Exodus as described in the Bible?",
+            "correct answer": [
+                "Ramses II, although it is still debated"
+            ],
+            "incorrect answers": [
+                "Khofu",
+                "Donald Trump",
+                "Sneferu",
+                "Tutankhamun"
+            ]
+        },
+        {
+            "question": "What was the primary purpose of the Valley of the Kings in Ancient Egypt?",
+            "correct answer": [
+                "to serve as a burial site for Pharaohs"
+            ],
+            "incorrect answers": [
+                "to serve as a burial site for the royal cats",
+                "to serve as a playground for the pharaohs",
+                "to serve the royal family as a vacation home",
+                "to serve the royal dogs to play catch"
+            ]
         }
     ]
 }
